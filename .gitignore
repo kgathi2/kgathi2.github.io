@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+# find . -name 'Icon?' -delete 
+Icon? 
+
